@@ -1,6 +1,8 @@
 # Leetcode diary
 
-Just a small safe haven where I jot down my learnings and keep track of it till I land a job and continue to learn to be the best version of myself. I will update it every weekend. 💫
+Just a small safe haven where I jot down my learnings and keep track of it till I land a job.
+
+aim is to continue learning to be the best version of myself. ps :- I will be updating it on every weekend. 💫
 
 
 ![quote](https://img.shields.io/badge/Be%20part%20of%20the%20expedition-8A2BE2)
