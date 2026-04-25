@@ -9,7 +9,7 @@ ps :- I will be updating it on every weekend. 💫
 
 ![quote](https://img.shields.io/badge/Be%20part%20of%20the%20expedition-8A2BE2)
 
-# Job Updates
+## Job Updates
 
 • NIL
 
